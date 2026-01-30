@@ -52,6 +52,7 @@ Implementar un sistema automatizado de evaluación de propuestas de negocio medi
 
 ## 🗂️ Estructura del Proyecto
 
+```text
 ChatbotRender/
 ├── app.py                  # Archivo principal del backend
 ├── api/                     # Lógica de endpoints y controladores
@@ -63,6 +64,8 @@ ChatbotRender/
 ├── README.md                # Documentación del proyecto
 ├── .gitignore               # Archivos ignorados por Git
 └── docs/                    # Documento de la tesis (PDF)
+
+```
 
 <img width="186" height="580" alt="image" src="https://github.com/user-attachments/assets/d2a7708e-748c-46ca-adc0-9cec85d2333a" />
 
@@ -104,4 +107,5 @@ No incluye credenciales reales ni datos sensibles.
 
 Uso académico y educativo.  
 Cualquier reutilización debe citar a los autores.
+
 
