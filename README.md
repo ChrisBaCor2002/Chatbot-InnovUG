@@ -1,4 +1,4 @@
-# Chatbot InnovUG
+# Chatbot InnovUG  
 **Sistema Automatizado de Evaluación de Propuestas de Negocio mediante OpenAI API**
 
 Proyecto Tecnológico de Titulación desarrollado para la carrera de **Tecnologías de la Información** de la **Universidad de Guayaquil**, orientado a optimizar el proceso de evaluación de propuestas de emprendimiento del **Centro de Emprendimiento InnovUG (CEI)** mediante el uso de Inteligencia Artificial.
@@ -33,4 +33,75 @@ Implementar un sistema automatizado de evaluación de propuestas de negocio medi
 - 🗂️ Registro y trazabilidad de evaluaciones en base de datos  
 - 💬 Conversaciones con memoria controlada para el análisis de propuestas  
 - 🔐 Gestión básica de usuarios y control de sesiones  
-- ⏱️ Optimización de tiempos de evaluación frente al proceso manual
+- ⏱️ Optimización de tiempos de evaluación frente al proceso manual  
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Lenguaje:** Python  
+- **Framework Backend:** Flask  
+- **Base de Datos:** PostgreSQL  
+- **Inteligencia Artificial:** OpenAI API  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Metodología:** DevOps  
+- **Herramientas:** Git, GitHub, Postman  
+- **Despliegue:** Render  
+
+---
+
+## 🗂️ Estructura del Proyecto
+
+ChatbotRender/
+├── app.py                  # Archivo principal del backend
+├── api/                     # Lógica de endpoints y controladores
+├── rules/                   # Reglas y criterios de evaluación
+├── documents/               # Archivos de referencia
+├── static/                  # CSS, JS e imágenes
+├── uploads/                 # Propuestas cargadas por los usuarios
+├── requirements.txt         # Dependencias del proyecto
+├── README.md                # Documentación del proyecto
+├── .gitignore               # Archivos ignorados por Git
+└── docs/                    # Documento de la tesis (PDF)
+
+<img width="186" height="580" alt="image" src="https://github.com/user-attachments/assets/d2a7708e-748c-46ca-adc0-9cec85d2333a" />
+
+
+---
+
+## 📄 Documento de Tesis
+
+El documento completo del **Proyecto de Titulación** se encuentra disponible en la carpeta:
+
+📁 **/docs**
+
+---
+
+## 👩‍🎓 Autores
+
+- **Ing. Christell Nicole Baño Cordero**  
+- **Ing. José Ricardo Intriago Franco**
+
+Carrera de Tecnologías de la Información  
+Universidad de Guayaquil
+
+---
+
+## 👨‍🏫 Tutor Académico
+
+- **Ing. Roberto Crespo Mendoza, M.Sc.**
+
+---
+
+## ⚠️ Nota Académica
+
+Este repositorio corresponde a un **Proyecto Tecnológico de Titulación**.  
+No incluye credenciales reales ni datos sensibles.
+
+---
+
+## 📜 Licencia
+
+Uso académico y educativo.  
+Cualquier reutilización debe citar a los autores.
+
